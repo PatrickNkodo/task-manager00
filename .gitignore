@@ -1,0 +1,9 @@
+node_modules
+src/task-manager/manager-tests
+bloodbank server
+weather-app
+web-server
+tests
+notes-app
+test
+.env
